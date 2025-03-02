@@ -24,7 +24,7 @@ python ai_finance_poc.py
 ## Google Colab
 The code is also available as a **Google Colab Notebook** for easy execution without local setup:
 
-[Run on Google Colab](https://foo.bar)
+[Run on Google Colab](https://colab.research.google.com/github/mikeninerbravog/POC_ML_AI-in-Finance/blob/master/POC_ML_FraudDetection.ipynb)
 
 ## About the Developer
 This project was developed by **Mike Niner Bravog**, an expert in AI, automation, and financial technology.
