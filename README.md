@@ -1,5 +1,7 @@
 # AI in Finance - Proof of Concept (PoC)
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mikeninerbravog/POC_ML_AI-in-Finance/blob/master/POC_ML_FraudDetection.ipynb)]
+
 ## Overview
 This repository contains a **Proof of Concept (PoC)** for AI applications in finance, developed by **Mike Niner Bravog**. The PoC demonstrates:
 
