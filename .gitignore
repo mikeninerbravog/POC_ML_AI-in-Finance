@@ -1,2 +1,2 @@
-_*.sh
+^*_.sh
 st_dt.txt
